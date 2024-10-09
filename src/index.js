@@ -1,7 +1,7 @@
 const express = require("express");
 const path = require("path");
 const bcrypt = require("bcrypt");
-const port = 4000;
+const port = 5000;
 const collection =require('./config');
 const app =express();
 
